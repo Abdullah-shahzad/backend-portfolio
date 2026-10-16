@@ -1,0 +1,27 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Local settings, secrets, and deployment state
+.DS_Store
+.env
+.env.*
+*.local
+.vercel/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local agent instructions and supplied design references
+.agents/
+.codex/
+.aws/
+Aakash's Personal Portfolio.html
+Aakash's Personal Portfolio_files/
+DESIGN.md
+SKILL.md
+
+# Original inputs and local preview (downloadable resume stays in public/)
+Muhammad_Abdullah_Resume .docx
+preview.png
